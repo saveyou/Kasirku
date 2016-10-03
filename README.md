@@ -10,3 +10,10 @@ Candidate Feature:<br/>
 3. Product display that will be needed for non-barcode heavy user as retail.<br/>
 4. Bluetooth and Google Cloud printing.<br/>
 5...<br/>
+
+Rename app.config.js.sample and fill out accordingly with the API Server
+
+Debugging command:<br/>
+npm run bundle-android && npm run build && npm run start (make sure you have connected device)<br/>
+
+
